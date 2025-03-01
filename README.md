@@ -1,4 +1,4 @@
-Hi there, I'm Jerom-Macharia 👋
+Hi there, I'm Jerom-Macharia 👋🏿
 
 ### 🚀 About Me
 I am a passionate developer with a keen interest in building efficient and scalable applications. I enjoy solving problems, learning new technologies, and collaborating on exciting projects.
