@@ -13,4 +13,4 @@ I am a passionate developer with a keen interest in building efficient and scala
 - 📧 Email: [jerommacharia6@gmail.com](mailto:jerommacharia6@gmail.com)  
 - 📱 Phone: [+254704243539](tel:+254704243539)  
 ### 📊 GitHub Stats
-![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Jerom's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
